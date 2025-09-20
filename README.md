@@ -60,7 +60,7 @@ Component Architecture: Building reusable React components with Bootstrap
  Playlist generation based on mood progression
  Integration with mental health tracking 
 
-<img width="1440" height="775" alt="<img width="1440" height="775" alt="Screenshot 2025-09-15 at 10 45 39 PM" src="https://github.com/user-attachments/assets/15dcd25d-51b4-4e85-be27-f8f04476ac15" />
+<img width="1440" height="775" alt="Screenshot 2025-09-15 at 10 45 39 PM" src="https://github.com/user-attachments/assets/15dcd25d-51b4-4e85-be27-f8f04476ac15" />
 
 <img width="1440" height="775" alt="Screenshot 2025-09-15 at 10 45 05 PM" src="https://github.com/user-attachments/assets/24190ce9-3912-4875-9550-f713277c9e01" />
 
